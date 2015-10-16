@@ -1,0 +1,64 @@
+# Site settings
+title: 做点喜欢的事情
+header-img: "img/facebook.jpg"
+tagline: "cn"  
+description: "Heboot"  
+baseurl: ""
+url: "http://heboot.com"  
+
+# About/contact
+owner: 
+  name: " Heboot"
+  email: heboot@126.com 
+  bio: "做点自己喜欢的事情,不急不躁,不温不火"
+
+# Data
+gavatar: http://7xniy1.com1.z0.glb.clouddn.com/dog.jpg
+favicon: img/favicon.png
+
+#douban_username:  Heboot
+twitter_username: nulladdress
+github_username: heboot
+facebook_username: nulladdress
+weibo_username: -Heboot 
+zhihu_username: bo-he-28
+
+# Build settings  
+# use Github Flavored Markdown !important  
+# document: http://jekyllrb.com/docs/configuration/#kramdown  
+markdown: kramdown
+highlighter: pygments
+permalink: pretty
+paginate: 8
+exclude: ["less","node_modules","Gruntfile.js","package.json","README.md"]
+relative_permalinks: true
+
+# http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
+timezone: Asia/Shanghai
+
+# Defaults for posts
+defaults:
+  -
+    scope: 
+      path: ""
+      type: "posts"
+    values:
+      layout: "post"
+      author: "Heboot"
+      header-img: "img/facebook.jpg" # We don't want posts without a header image, that whould mean white on white
+
+# Comments 
+comments :
+  provider : duoshuo
+  duoshuo :
+    short_name : heboot
+  disqus :
+      short_name : heboot
+
+# Analytics and webmaster tools stuff goes here
+google_analytics: 
+google_verify:
+# https://ssl.bing.com/webmaster/configure/verify/ownership Option 2 content= goes here
+bing_verify:
+
+# Links to include in footer navigation
