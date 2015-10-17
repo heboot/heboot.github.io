@@ -7,7 +7,7 @@ header-img: "img/green.jpg"
 
 
 <center>
-    <p><img src="http://7xniy1.com1.z0.glb.clouddn.com/dog.jpg" align="center"></p>
+    <p><img src="img/cnfeat.jpg" align="center"></p>
 </center>
 
 
