@@ -7,7 +7,7 @@ header-img: "img/green.jpg"
 
 
 <center>
-    <p><img src="img/cnfeat.jpg" align="center"></p>
+    <p><img src="http://7xniy1.com1.z0.glb.clouddn.com/me/psb-200.jpeg" align="center"></p>
 </center>
 
 
@@ -52,7 +52,7 @@ header-img: "img/green.jpg"
 
 
 <center>
-    <p><img src="http://7xniy1.com1.z0.glb.clouddn.com/wxerwei.png" align="center"></p>
+    <p><img src="http://7xniy1.com1.z0.glb.clouddn.com/wxerwei.png?imageView2/2/w/300/h/300/q/75" align="center"></p>
 </center>
 
 
